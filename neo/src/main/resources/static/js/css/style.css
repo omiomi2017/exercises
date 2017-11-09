@@ -1,0 +1,5 @@
+.table>thead:first-child>tr:first-child>th:first-child
+{
+    height:auto;
+    width:50px;
+}
